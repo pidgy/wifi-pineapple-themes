@@ -7,3 +7,5 @@ git clone https://github.com/trashbo4t/wifi-pineapple-themes.git
 cd wifi-pineapple-themes 
 scp -r Themes/ root@172.16.42.1:/pineapple/modules/
 ```
+
+![alt text](https://i.imgur.com/2eNnP4I.png)
