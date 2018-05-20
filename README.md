@@ -3,8 +3,9 @@ Module I created for the wifi pineapple that allows users to customize the 172 p
 
 ```
 #!/bin/bash
-cd /pineapple/modules/
 git clone https://github.com/trashbo4t/wifi-pineapple-themes.git
-mv wifi-pineapple-themes/Themes .
-rm -rf wifi-pineapple-themes
+cd wifi-pineapple-themes 
+scp -r Themes/ root@172.16.42.1:/pineapple/modules/
 ```
+
+![alt text](https://i.imgur.com/2eNnP4I.png)
