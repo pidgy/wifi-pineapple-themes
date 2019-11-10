@@ -1,6 +1,8 @@
 # wifi-pineapple-themes
 Module I created for the wifi pineapple that allows users to customize the 172 page style.
 
+`Note: This module was accepted by Hak5 as an official module, it is best to download from the "Module" pane on your pineapple.`
+
 ```
 #!/bin/bash
 git clone https://github.com/trashbo4t/wifi-pineapple-themes.git
